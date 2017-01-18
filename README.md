@@ -9,7 +9,7 @@ _generate basic coggle diagram from go repo_
 1. Make sure you [have Go installed][1] and [put $GOPATH/bin in your $PATH][2]
 2. [Install Cobra][3]
 3. run `go get github.com/rigelrozanski/go2coggle`
-4. run `go install wb`
+4. run `go install go2coggle`
 
 [1]: https://golang.org/doc/install
 [2]: https://github.com/tendermint/tendermint/wiki/Setting-GOPATH 
